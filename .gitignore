@@ -1,2 +1,4 @@
 /mc/bin/
 /mc/bin/*
+/mc/obj/Debug/
+/mc/obj/Debug/*
